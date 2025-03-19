@@ -1,6 +1,8 @@
-![Saxon](../images/saxon.png)                   
+![Saxon](../images/saxon.png)      
 
-# About Us
+# Taking the best to the next level.             
+
+## About Us
 
 Since inception, our thesis has been that blockchain technology will radically change how we store and transfer value but, of course, change rarely takes place overnight.
 
@@ -8,16 +10,16 @@ It is often said that there is a tendency to overestimate the change that will o
 
 Whilst many digital asset issuers and advisors have perished in the short-sighted pursuit of hype, Saxon has maintained a long-term view from day one.
 
-## Advisors
+### Advisors
 
 We help projects prepare for and execute private placements of crypto assets.
 
 
-## Nodes
+### Nodes
 
 Nodes as a Service for Investors and Developers. Scale your network using our cloud-native experts and our infrastructure as code
 
 
-## Ventures
+### Ventures
 
 Playing an active role in early-stage projects that we believe are radicially innovative.
