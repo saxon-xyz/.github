@@ -1,4 +1,4 @@
-![Saxon](images/saxon-logo-dark.svg                    
+![Saxon](images/saxon-logo-dark.svg)                   
 
 # About Us
 
